@@ -16,6 +16,7 @@ I started with very simple approch and for now hardcoded data and base URL.
   #since I see your requirement has xml data so you have to specify  xml or json on your Base url.
   https://localhost:7257/api/TimerList/get.xml
   https://localhost:7257/api/TimerList/get.json
+  You can try it on https://localhost:7257/swagger/index.html, please specify xml or json on format
   
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
