@@ -3,10 +3,10 @@
 # git 
 
 Hello Jason, 
-I started analysing the requirements, and came up with thefollowing questions.
+
 I started with very simple approch and for now hardcoded data and base URL. 
 
-# I created 2 project namely, 
+# I created two project namely, 
 1. HartIntercivicAngular
   This angular project has a service layer that listens to our backend.
   I also embeded simple Angular Timer for now. 
