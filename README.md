@@ -1,5 +1,23 @@
 # HartIntercivicAngular
 
+# git 
+
+Hello Jason, 
+I started analysing the requirements, and came up with thefollowing questions.
+I started with very simple approch and for now hardcoded data and base URL. 
+
+# I created 2 project namely, 
+1. HartIntercivicAngular
+  This angular project has a service layer that listens to our backend.
+  I also embeded simple Angular Timer for now. 
+  
+2. HartIntercivicBackEndWebAPI
+  #I created a ApiController to get TimerList, that can be comsume by our frontend.
+  #since I see your requirement has xml data so you have to specify  xml or json on your Base url.
+  https://localhost:7257/api/TimerList/get.xml
+  https://localhost:7257/api/TimerList/get.json
+  
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
 
 ## Development server
